@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 153.2 26" style="enable-background:new 0 0 153.2 26;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#A86280;}
+	.st1{fill:#010202;}
+</style>
+<g>
+	<g>
+		<polygon class="polygon1" fill="#a7627f" points="25,0.1 12.5,26 19.6,26 32.2,0.1 		"/>
+		<polygon class="polygon2" fill="#a7627f" points="14.2,15 12.2,11 16.2,11 18.2,7 10.2,7 9.2,4 19.2,4 21.2,0 0,0 10.6,22.3 		"/>
+	</g>
+	<g>
+		<g>
+			<path class="svgtext" d="M52.2,19l3,0v-4h6v-3h-6v-2h7V7l-10,0.1V19z M68.2,7l-5,12h3l1-2h5l1,2h3l-5-12H68.2z M68.2,14l1-3h1l1,3
+				H68.2z M134.2,7l-5,12h3l1-2h5l1,2h3l-5-12H134.2z M134.2,14l1-3h1l1,3H134.2z M82.7,12l-3.5-5h-3l5,7v5h3v-5l5-7h-3L82.7,12z
+				 M99.2,13l-5-6h-3v12l3,0v-7l5.3,7h2.7V7l-3,0L99.2,13z M112.8,12.7c1.2-0.5,1.8-1.4,1.8-2.7c0-0.8-0.3-1.4-0.8-1.9
+				c-0.7-0.7-1.8-1.1-3.2-1.1h-5.5V19h5.5c1.4,0,2.5-0.3,3.3-0.9c0.8-0.6,1.2-1.4,1.2-2.4c0-0.8-0.2-1.4-0.6-1.9
+				C114.2,13.4,113.6,13,112.8,12.7z M107.8,9.7h2.1c0.5,0,0.9,0.1,1.1,0.3c0.3,0.2,0.4,0.4,0.4,0.8c0,0.7-0.5,1.1-1.6,1.1h-2.1V9.7
+				z M111.5,16.1c-0.3,0.2-0.7,0.3-1.2,0.3h-2.5v-2.2h2.5c0.5,0,0.9,0.1,1.2,0.3c0.3,0.2,0.4,0.5,0.4,0.8
+				C111.9,15.6,111.8,15.9,111.5,16.1z M121.2,7h-3v12h9v-3h-6V7z M142.2,7v3h4v9h3v-9h4V7H142.2z"/>
+		</g>
+	</g>
+</g>
+<style type="text/css">
+.polygon1 {
+    animation: polygon1 500ms linear 0ms;
+}
+
+@keyframes polygon1 {
+		0% {
+		transform: translateY(30px);
+		}
+    100% {
+    transform: translateY(0px);
+    }
+}
+.polygon2 {
+    animation: polygon2 1500ms linear 0ms;
+}
+
+@keyframes polygon2 {
+		0% {
+		opacity: 0;
+		transform: translateX(10px);		
+		}
+		50% {
+		opacity: 0;
+		transform: translateX(10px);
+		}
+    100% {
+    opacity: 1;
+    transform: translateX(0px);
+    }
+}
+.svgtext {
+    animation: svgtext 1000ms linear 0ms;
+}
+
+@keyframes svgtext {
+		0% {
+		transform: translateY(30px);
+		opacity: 0;
+		}
+		30% {
+		transform: translateY(30px);
+		opacity: 1;
+		}
+    100% {
+    transform: translateY(0px);
+    }
+}
+</style>
+</svg>
